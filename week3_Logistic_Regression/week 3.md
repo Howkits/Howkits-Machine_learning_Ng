@@ -100,7 +100,7 @@ ps：当$\lambda$过大时，会造成欠拟合；太小就会造成过拟合
 
 不可逆  $m< n$时$X^\mathrm{T}X$ 不可逆\奇异\退化
 
-![image-20201004154740651](C:\Users\ysyxf\AppData\Roaming\Typora\typora-user-images\image-20201004154740651.png)
+![image-20201004154740651](1.png)
 
 而加入正则项可逆
 
